@@ -1,8 +1,7 @@
 // Some code fragments have been taken from an old repository: https://github.com/ShiibaDev/Fair-Sciencie/blob/master/src/main.cpp
 // They are being optimized and configured for a complex operation.
 
-
-// this is the only and last project of IoT I am gonna work, the next projects gonna focus only web development. (ShibaDev)
+// Check Blue House project from InuzDev
 
 // Warning, code are corrupted.
 #include "thingProperties.h"
